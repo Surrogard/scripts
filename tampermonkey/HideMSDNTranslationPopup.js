@@ -5,6 +5,8 @@
 // @description  Hides the annoying translation/original popup that shows everytime you hover over a sentence
 // @author       Surrogard
 // @match        https://msdn.microsoft.com/de-de/library/*
+// @updateURL    https://github.com/Surrogard/scripts/raw/master/tampermonkey/HideMSDNTranslationPopup.js
+// @downloadURL  https://github.com/Surrogard/scripts/raw/master/tampermonkey/HideMSDNTranslationPopup.js
 // @grant        none
 // ==/UserScript==
 
