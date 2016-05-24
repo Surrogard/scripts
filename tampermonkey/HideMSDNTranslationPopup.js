@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hide MSDN translation popup
 // @namespace    https://github.com/surrogard
-// @version      0.2
+// @version      0.3
 // @description  Hides the annoying translation/original popup that shows everytime you hover over a sentence
 // @author       Surrogard
 // @match        https://msdn.microsoft.com/de-de/library/*
